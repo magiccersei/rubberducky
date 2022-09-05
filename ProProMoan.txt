@@ -1,6 +1,7 @@
 REM Prank porn sound when you open any program 
 REM Windows 10
-REM Made by KZ
+REM Made by KZ 
+REM Credit to I AM Jakoby for helping make this awesome
 
 REM give computer time 
 DELAY 2000
